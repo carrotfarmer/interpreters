@@ -5,8 +5,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import sun.security.jgss.TokenTracker;
-
 import static jlox.TokenType.*;
 
 class Scanner {
